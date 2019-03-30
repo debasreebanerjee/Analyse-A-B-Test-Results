@@ -1,7 +1,7 @@
-# Analyze-A/B-Test-Results
+# Analyse-A/B-Test-Results
 
 #### Introduction
-In this project, we analyzed the results of an A/B test run by an e-commerce website. The aim of this project was to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
+In this project, we analysed the results of an A/B test run by an e-commerce website. The aim of this project was to help the company understand if they should implement the new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
 #### Methodology
 The project was carried out in Python 3 in Jupyter Notebook
